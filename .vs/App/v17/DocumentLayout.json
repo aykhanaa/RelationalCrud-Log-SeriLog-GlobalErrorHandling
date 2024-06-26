@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\api-logger-serilog\\repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|solutionrelative:repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\api-logger-serilog\\repository\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\api-logger-serilog\\repository\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\api-logger-serilog\\repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|c:\\users\\hp\\desktop\\api-logger-serilog\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835349-589E-44A7-9B59-1014D3CC80A0}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A002E8-48B9-48BF-8049-257728AA98E8}|App\\App.csproj|c:\\users\\hp\\desktop\\api-logger-serilog\\app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11A002E8-48B9-48BF-8049-257728AA98E8}|App\\App.csproj|solutionrelative:app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Repository\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\DependencyInjection.cs",
+              "RelativeToolTip": "Repository\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:56:56.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\CountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:56:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\CityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:56:45.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:56:41.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:56:33.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\App\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "App\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\API-Logger-SeriLog\\App\\appsettings.Development.json",
+              "RelativeToolTip": "App\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T19:53:56.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
